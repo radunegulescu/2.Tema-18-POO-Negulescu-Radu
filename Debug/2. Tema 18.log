@@ -1,2 +1,7 @@
 ﻿  Main.cpp
+C:\Radu\POO\Laborator POO\2. Tema 18\2. Tema 18\Main.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Radu\POO\Laborator POO\2. Tema 18\2. Tema 18\Main.cpp(226,19): warning C4018: '<': signed/unsigned mismatch
+C:\Radu\POO\Laborator POO\2. Tema 18\2. Tema 18\Main.cpp(238,23): warning C4018: '<': signed/unsigned mismatch
+C:\Radu\POO\Laborator POO\2. Tema 18\2. Tema 18\Main.cpp(188,39): warning C4101: 'm': unreferenced local variable
+C:\Radu\POO\Laborator POO\2. Tema 18\2. Tema 18\Main.cpp(345,14): warning C4101: 'x': unreferenced local variable
   2. Tema 18.vcxproj -> C:\Radu\POO\Laborator POO\2. Tema 18\2. Tema 18\Debug\2. Tema 18.exe
